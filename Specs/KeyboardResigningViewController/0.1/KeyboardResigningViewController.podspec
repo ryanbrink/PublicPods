@@ -7,5 +7,5 @@ Pod::Spec.new do |s|
   s.author       = { 'Ryan Brink' => 'ryan@ryanbrink.ca' }
 
   s.source       = { :git => 'https://github.com/ryno2019/RBKeyboardResigningViewController.git', :tag => 'v0.1' }
-  s.source_files = 'RBKeyboardResigningViewController.{h,m}'
+  s.source_files = './RBKeyboardResigningViewController/RBKeyboardResigningViewController.{h,m}'
 end
