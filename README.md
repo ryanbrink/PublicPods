@@ -1,0 +1,4 @@
+PublicPods
+==========
+
+My public CocoaPods
